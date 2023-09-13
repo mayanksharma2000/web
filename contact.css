@@ -1,0 +1,85 @@
+.carouse1-inner {
+	background: no-repeat center ;
+	-webkit-background-size: cover;
+	background-size: cover;
+	
+}
+body{
+	font-family: "cursive";
+
+	
+
+	}
+
+	
+
+.nav-item{
+	font-size: large;
+	font-style: italic;
+	font-family: cursive;
+
+}
+
+
+.d-block{
+	background-size: cover;
+}
+
+
+
+
+h2{
+	text-align: center;
+	font-size: 50px;
+	font-weight: 600;
+	font-style:italic ;
+	color: #D4C2A8;
+
+}
+
+.register{
+	
+	background-repeat: no-repeat;
+	background-size:100% 1000px;
+	width: 100%;
+	color: white;
+}
+
+.reg{
+	background-color: rgba(0, 0, 0,0.4);
+	border: 6px ;
+	border-radius: 90px;
+}
+
+.form-group{
+	background-color: transparent;
+	border: none;
+	border-bottom: 2px ;
+	border-radius: 0px !important;
+}
+
+
+.btn-default{
+	background-color: #ffbf00;
+	
+	color: black;
+}
+
+form{
+
+font-size: 150%;
+color: grey;
+
+}
+
+.form-control{
+	background-color: transparent;
+	border-radius: 30px;
+}
+	
+
+
+
+
+
+}

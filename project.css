@@ -1,0 +1,28 @@
+.carouse1-inner {
+	background: no-repeat center ;
+	-webkit-background-size: cover;
+	background-size: cover;
+	
+}
+body{
+	font-family: "cursive";
+
+	}
+
+	
+
+.nav-item{
+	font-size: large;
+	font-style: italic;
+	font-family: cursive;
+
+}
+
+
+.d-block{
+	background-size: cover;
+}
+
+
+
+
